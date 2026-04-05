@@ -2,7 +2,8 @@
 ### PD Modeling (XGBoost) + Qualitative Heuristics (LLM)
 
 ## Project Overview
-This repository contains a modular decisioning engine designed to evaluate credit risk by synthesizing structured financial data and unstructured applicant intent. 
+This repository contains a modular decisioning engine designed to evaluate credit risk by synthesizing structured financial data and unstructured applicant intent. To view this program on its Hugging Faces Space, click the following link:
+https://huggingface.co/spaces/Abhishek-Bhatti/LC-Credit-Risk-Model
 
 Unlike traditional "Black Box" models, this system implements a **Hybrid Fusion Layer** that allows for automated qualitative overrides (Vetos) based on employment stability and loan purpose.
 
