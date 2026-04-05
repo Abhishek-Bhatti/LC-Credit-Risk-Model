@@ -23,3 +23,6 @@ Unlike traditional "Black Box" models, this system implements a **Hybrid Fusion 
 - **Deterministic Guardrails:** Quantitative scores are cross-validated against Debt-to-Income (DTI) and Employment Tenure.
 - **Dynamic Risk Appetite:** Real-time adjustment of underwriting "strictness" via a centralized configuration.
 - **High-Alert UI:** Visual feedback system for immediate risk identification.
+
+## Note
+- No API Key is provided with the codebase in this repo. Utilize an API key that uses the Llama 3.3 (Groq LPU) model from Groq's website.
