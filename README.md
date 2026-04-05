@@ -1,4 +1,4 @@
-# Hybrid Credit Risk Underwriting Engine
+# LC Credit Risk Underwriting Engine
 ### PD Modeling (XGBoost) + Qualitative Heuristics (LLM)
 
 ## Project Overview
